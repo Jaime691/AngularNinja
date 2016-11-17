@@ -1,0 +1,25 @@
+[{
+	"name": "Raphael",
+	"belt": "Red",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/img/raphael.png"
+}, {
+	"name": "Miguel Angel",
+	"belt": "Orange",
+	"rate": 30,
+	"available": true,
+	"thumb": "content/img/miguel.png"
+}, {
+	"name": "Donatello",
+	"belt": "Purple",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/don.png"
+}, {
+	"name": "Leonardo",
+	"belt": "Blue",
+	"rate": 1000,
+	"available": true,
+	"thumb": "content/img/leo.png"
+}]

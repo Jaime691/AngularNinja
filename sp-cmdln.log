@@ -1,0 +1,101 @@
+2016-10-11 11:01:54 -- Script Portlet command line version: 1.3
+
+2016-10-11 11:01:54 -- Home folder: C:\Labfiles\ScriptPortlet-1.3.0\sp_cmdln
+
+2016-10-11 11:01:54 -- Java environment:
+
+	java.home = C:\Program Files (x86)\Java\jre1.8.0_101
+	java.vendor = Oracle Corporation
+	java.version = 1.8.0_101
+
+2016-10-11 11:01:54 -- Effective configuration properties:
+
+	mainHtmlFile = index.html
+	portalPassword = ********
+	portalUser = wpsadmin
+	scriptPortletServer = http://localhost:10039
+	wcmContentName = angularNinja
+	wcmSiteArea = Script Portlet Library/Script Portlet Applications/
+
+2016-10-11 11:01:54 -- Begin content push to Portal.
+
+2016-10-11 11:01:54 -- Push URL: POST http://localhost:10039/import_export/webengine/script_editing/ScriptPortletContentAPI/Action!doPushApp HTTP/1.1
+
+2016-10-11 11:01:54 -- Virtual Portal ID: null
+
+2016-10-11 11:01:54 -- Project ID: null
+
+2016-10-11 11:01:54 -- WCM content ID: null
+
+2016-10-11 11:01:54 -- WCM Content Path: Script Portlet Library/Script Portlet Applications/angularNinja
+
+2016-10-11 11:01:54 -- WCM Content Title: null
+
+2016-10-11 11:01:54 -- Main HTML file: index.html
+
+2016-10-11 11:01:54 -- Archive file:
+
+	C:\Users\Administrator\AppData\Local\Temp\sp-content-769897468140813370.zip
+	(2738 bytes in 5 files)
+
+	app/app.js
+	content/css/style.css
+	header.html
+	index.html
+	sp-cmdln.log
+
+2016-10-11 11:02:00 -- Response status: HTTP/1.1 200 OK
+
+2016-10-11 11:02:00 -- Content-Type: application/json
+
+2016-10-11 11:02:00 -- Effective charset of body: UTF-8
+
+2016-10-11 11:02:00 -- Body content:
+
+{
+
+   "results" : {
+
+      "status" : "success",
+      "importedFiles" : {
+
+         "file" : [
+            {
+
+               "filename" : "HTML\/header.html"
+            }
+            ,
+            {
+
+               "filename" : "HTML\/index.html"
+            }
+            ,
+            {
+
+               "filename" : "JavaScript\/app\/app.js"
+            }
+            ,
+            {
+
+               "filename" : "CSS\/content\/css\/style.css"
+            }
+
+         ]
+      }
+      ,
+      "skippedFiles" : "",
+      "message" : "The file that you selected was imported successfully."
+   }
+}
+
+
+2016-10-11 11:02:00 -- Target authentication state: SUCCESS
+
+2016-10-11 11:02:00 -- Target authentication scheme: BASIC
+
+2016-10-11 11:02:00 -- Target authentication credentials: [principal: wpsadmin]
+
+2016-10-11 11:02:00 -- Content push was successful.
+
+2016-10-11 11:02:00 -- End content push to Portal.
+

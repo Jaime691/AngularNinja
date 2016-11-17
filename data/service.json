@@ -1,0 +1,245 @@
+{
+	"service": [{
+			"id": 1,
+			"serviceName": "Admisiones"
+		}, {
+			"id": 2,
+			"serviceName": "Aeropuerto"
+		}, {
+			"id": 3,
+			"serviceName": "AMBULATORIO PMLA"
+		}, {
+			"id": 4,
+			"serviceName": "AMBULATORIOS LMLA"
+		}, {
+			"id": 5,
+			"serviceName": "C.M. PARENTERALES"
+		}, {
+			"id": 6,
+			"serviceName": "CANTRA TMO"
+		}, {
+			"id": 7,
+			"serviceName": "CardiologÃ­a no invasiva"
+		}, {
+			"id": 8,
+			"serviceName": "Chequeo de ejecutivos"
+		}, {
+			"id": 9,
+			"serviceName": "CIRUGIA 2DO.NIVEL"
+		}, {
+			"id": 10,
+			"serviceName": "CIRUGIA 3ER.NIVEL"
+		}, {
+			"id": 11,
+			"serviceName": "CONS. CARDIOVASCULAR"
+		}, {
+			"id": 12,
+			"serviceName": "COOMEVA LAS AMERICAS I.P.S."
+		}, {
+			"id": 13,
+			"serviceName": "CORTA ESTANCIA (CE)"
+		}, {
+			"id": 14,
+			"serviceName": "CUIDADO INTEGRAL"
+		}, {
+			"id": 15,
+			"serviceName": "Emerg.Toxicologia"
+		}, {
+			"id": 16,
+			"serviceName": "Emergencias Ex 4002"
+		}, {
+			"id": 17,
+			"serviceName": "ESTADISTICA"
+		}, {
+			"id": 18,
+			"serviceName": "ESTERILIZACION"
+		}, {
+			"id": 19,
+			"serviceName": "FARMACIA INTERNA"
+		}, {
+			"id": 20,
+			"serviceName": "GASES CC 1095"
+		}, {
+			"id": 21,
+			"serviceName": "GINECOLOGIA ONCOLOGICA"
+		}, {
+			"id": 22,
+			"serviceName": "GINECOLOGIA TORRE MEDICA LAS A"
+		}, {
+			"id": 23,
+			"serviceName": "HOSP. 4TO. TORRE 3"
+		}, {
+			"id": 24,
+			"serviceName": "HOSP. 5TO. TORRE 3"
+		}, {
+			"id": 25,
+			"serviceName": "HOSP. 6TO. TORRE 3"
+		}, {
+			"id": 26,
+			"serviceName": "HOSP. 7TO. TORRE 3"
+		}, {
+			"id": 27,
+			"serviceName": "HOSP.CORT.ESTAN.TORRE4"
+		}, {
+			"id": 28,
+			"serviceName": "HOSP.CORTA ESTANCIA"
+		}, {
+			"id": 29,
+			"serviceName": "HOSP.GINECO-OBSTETRICIA"
+		}, {
+			"id": 30,
+			"serviceName": "HOSP.MED.NUCLEAR"
+		}, {
+			"id": 31,
+			"serviceName": "HOSP.ONC.TORRE 4"
+		}, {
+			"id": 32,
+			"serviceName": "HOSP.ONCOLOGIA"
+		}, {
+			"id": 33,
+			"serviceName": "HOSP.TRASP.MED.OSEA"
+		}, {
+			"id": 34,
+			"serviceName": "HOSP.U.PROTEC.MICROBIO.TORRE 4"
+		}, {
+			"id": 35,
+			"serviceName": "HOSPITALIZACION 1 NIVEL"
+		}, {
+			"id": 36,
+			"serviceName": "IMAGENOLOGIA CITY PLAZA"
+		}, {
+			"id": 37,
+			"serviceName": "IMAGENOLOGIA SAN FERNANDO"
+		}, {
+			"id": 38,
+			"serviceName": "INS. DE CANCEROLOGIA"
+		}, {
+			"id": 39,
+			"serviceName": "INST. DE LA MUJER"
+		}, {
+			"id": 40,
+			"serviceName": "LABORATORIO CLINICO"
+		}, {
+			"id": 41,
+			"serviceName": "LABORATORIO DE PATOLOGIA"
+		}, {
+			"id": 42,
+			"serviceName": "LABORATORIO VASCULAR"
+		}, {
+			"id": 43,
+			"serviceName": "MEDICINA DE LA AVIACION"
+		}, {
+			"id": 44,
+			"serviceName": "Medicina Nuclear"
+		}, {
+			"id": 45,
+			"serviceName": "NEONATOS"
+		}, {
+			"id": 46,
+			"serviceName": "Obs M/H Ext 1431"
+		}, {
+			"id": 47,
+			"serviceName": "OBSTETRICIA"
+		}, {
+			"id": 48,
+			"serviceName": "PEDIATRIA"
+		}, {
+			"id": 49,
+			"serviceName": "PEDIATRIA TORRE 4"
+		}, {
+			"id": 50,
+			"serviceName": "PRE-QUIRURGICOS"
+		}, {
+			"id": 51,
+			"serviceName": "RADIOLOGIA"
+		}, {
+			"id": 52,
+			"serviceName": "Reanimacion Ext4005"
+		}, {
+			"id": 53,
+			"serviceName": "SALUD ORAL ESPECIALIZADA"
+		}, {
+			"id": 54,
+			"serviceName": "SERVICIO DE FISIOTERAPIA"
+		}, {
+			"id": 55,
+			"serviceName": "SERVICIO DE FONOAUDIOLOGIA"
+		}, {
+			"id": 56,
+			"serviceName": "SUSALUD(URGENCIAS)"
+		}, {
+			"id": 57,
+			"serviceName": "TERCERO POS"
+		}, {
+			"id": 58,
+			"serviceName": "TERCERO PREPAGADA"
+		}, {
+			"id": 59,
+			"serviceName": "Torre 4 P1 Ext 4100"
+		}, {
+			"id": 60,
+			"serviceName": "Torre 4 P3 Ext 4300"
+		}, {
+			"id": 61,
+			"serviceName": "Torre 4 P4 Ext 4400"
+		}, {
+			"id": 62,
+			"serviceName": "Torre 4 P5 Ext 4500"
+		}, {
+			"id": 63,
+			"serviceName": "Torre4 P2Uce Ex4200"
+		}, {
+			"id": 64,
+			"serviceName": "U.C.E. TORRE 3"
+		}, {
+			"id": 65,
+			"serviceName": "UCE 1ER. PISO"
+		}, {
+			"id": 66,
+			"serviceName": "UCI No. 2"
+		}, {
+			"id": 67,
+			"serviceName": "UCI No.1"
+		}, {
+			"id": 68,
+			"serviceName": "UCI PEDIATRIA"
+		}, {
+			"id": 69,
+			"serviceName": "UNIDAD ATENCION COOMEVA IPS"
+		}, {
+			"id": 70,
+			"serviceName": "UNIDAD DE ENDOSCOPIA"
+		}, {
+			"id": 71,
+			"serviceName": "UNIDAD DE FISIATRIA"
+		}, {
+			"id": 72,
+			"serviceName": "UNIDAD DE HEMODIALISIS"
+		}, {
+			"id": 73,
+			"serviceName": "UNIDAD DE HEMODINAMIA"
+		}, {
+			"id": 74,
+			"serviceName": "UNIDAD DE ORTOPEDIA"
+		}, {
+			"id": 75,
+			"serviceName": "UNIDAD NEUMOLOGIA"
+		}, {
+			"id": 76,
+			"serviceName": "UNIDAD TRASPLANTES"
+		}, {
+			"id": 77,
+			"serviceName": "Urg.Pediatr Ex1101"
+		}, {
+			"id": 78,
+			"serviceName": "URGENCIAS"
+		}, {
+			"id": 79,
+			"serviceName": "URGENCIAS FASTER"
+		}, {
+			"id": 80,
+			"serviceName": "VACUNACION"
+		}
+
+	]
+}
